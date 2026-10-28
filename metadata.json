@@ -1,0 +1,6 @@
+{
+  "name": "PulseOps Engine",
+  "description": "Real-time analytics and cluster operations dashboard featuring a 12-column responsive layout, live throughput trends, cluster instance management, and keyboard navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
